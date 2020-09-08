@@ -1,0 +1,5 @@
+.pio
+.vscode/
+test/
+.travis.yml
+platformio.ini

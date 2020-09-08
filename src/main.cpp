@@ -15,8 +15,8 @@ DynamicJsonDocument getJsonObject(String json);
 
 
 // Network variables
-const String ssid = "state";
-const String password = "litzinger2";
+const String ssid = "SSID";
+const String password = "PWD";
 
 
 // System Specific Variables
